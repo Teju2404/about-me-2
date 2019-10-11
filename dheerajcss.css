@@ -15,9 +15,19 @@ img {
     
 
   }
+  #habout{
+    background-color:lightblue;
+    border-top-right-radius: 7%;
+    border-top-left-radius: 7%;
+    border-bottom-left-radius: 7%;
+    border-bottom-right-radius: 7%;
+    padding: 2em;
+    margin: 2em;
+}
+
 
   #about{
-      background-color: lightblue;
+      background-color:transparent;
       border-top-right-radius: 7%;
       border-top-left-radius: 7%;
       border-bottom-left-radius: 7%;
